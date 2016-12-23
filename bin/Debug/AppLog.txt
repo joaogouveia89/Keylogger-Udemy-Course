@@ -1,0 +1,30 @@
+[23.12.2016 11:10:17]
+Hook started... Timer started
+
+[23.12.2016 11:11:18]
+Mail was not sent! Error code: -2
+
+[23.12.2016 11:11:54]
+Mail was not sent! Error code: 3
+
+[23.12.2016 11:11:54]
+<From SendMail> Return code:1647560569
+
+[23.12.2016 11:12:31]
+Mail was not sent! Error code: 259
+
+[23.12.2016 11:13::4]
+Mail was not sent! Error code: 3
+
+[23.12.2016 11:13:36]
+Mail was not sent! Error code: 3
+
+[23.12.2016 11:14:24]
+Hook started... Timer started
+
+[23.12.2016 11:14:58]
+<From SendMail> Return code:7
+
+[23.12.2016 11:16::5]
+Mail was not sent! Error code: 259
+

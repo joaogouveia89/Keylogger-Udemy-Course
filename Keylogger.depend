@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1482501960 source:c:\users\joão gouveia\documents\projects\c++\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1480656459 c:\users\joão gouveia\documents\projects\c++\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1480656443 c:\users\joão gouveia\documents\projects\c++\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1480656462 c:\users\joão gouveia\documents\projects\c++\keylogger\base64.h
+	<vector>
+	<string>
+
+1481599256 c:\users\joão gouveia\documents\projects\c++\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1482292349 c:\users\joão gouveia\documents\projects\c++\keylogger\timer.h
+	<mingw.thread.h>
+	<chrono>
+
+1482462074 c:\users\joão gouveia\documents\projects\c++\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1482502049 c:\users\joão gouveia\documents\projects\c++\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
